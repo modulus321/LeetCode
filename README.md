@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/modulus321/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/modulus321/LeetCode/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/modulus321/LeetCode/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/modulus321/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/modulus321/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/modulus321/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/modulus321/LeetCode/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/modulus321/LeetCode/tree/master/0075-sort-colors) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/modulus321/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
