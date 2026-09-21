@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/modulus321/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/modulus321/LeetCode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/modulus321/LeetCode/tree/master/0071-simplify-path) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/modulus321/LeetCode/tree/master/0056-merge-intervals) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/modulus321/LeetCode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
