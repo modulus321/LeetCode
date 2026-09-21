@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/modulus321/LeetCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/modulus321/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/modulus321/LeetCode/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/modulus321/LeetCode/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/modulus321/LeetCode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/modulus321/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/modulus321/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/modulus321/LeetCode/tree/master/0079-word-search) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/modulus321/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/modulus321/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/modulus321/LeetCode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/modulus321/LeetCode/tree/master/0079-word-search) |
 ## Binary Search
 |  |
 | ------- |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/modulus321/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/modulus321/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/modulus321/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/modulus321/LeetCode/tree/master/0079-word-search) |
 ## Sorting
 |  |
 | ------- |
@@ -88,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/modulus321/LeetCode/tree/master/0078-subsets) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/modulus321/LeetCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
