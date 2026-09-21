@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/modulus321/LeetCode/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/modulus321/LeetCode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/modulus321/LeetCode/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/modulus321/LeetCode/tree/master/0054-spiral-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,8 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/modulus321/LeetCode/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/modulus321/LeetCode/tree/master/0054-spiral-matrix) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/modulus321/LeetCode/tree/master/0049-group-anagrams) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/modulus321/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
