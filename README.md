@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/modulus321/LeetCode/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/modulus321/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
+## Recursion
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/modulus321/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
