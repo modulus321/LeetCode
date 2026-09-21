@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/modulus321/LeetCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/modulus321/LeetCode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/modulus321/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/modulus321/LeetCode/tree/master/0075-sort-colors) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/modulus321/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/modulus321/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/modulus321/LeetCode/tree/master/0075-sort-colors) |
 ## Simulation
 |  |
 | ------- |
@@ -67,8 +69,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/modulus321/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/modulus321/LeetCode/tree/master/0075-sort-colors) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/modulus321/LeetCode/tree/master/0071-simplify-path) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/modulus321/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/modulus321/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
