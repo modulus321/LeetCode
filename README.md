@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/modulus321/LeetCode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/modulus321/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/modulus321/LeetCode/tree/master/0460-lfu-cache) |
+| [1670-design-front-middle-back-queue](https://github.com/modulus321/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 | [2296-design-a-text-editor](https://github.com/modulus321/LeetCode/tree/master/2296-design-a-text-editor) |
 ## Recursion
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/modulus321/LeetCode/tree/master/0079-word-search) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/modulus321/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/modulus321/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1670-design-front-middle-back-queue](https://github.com/modulus321/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 ## Binary Search
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/modulus321/LeetCode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/modulus321/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/modulus321/LeetCode/tree/master/0460-lfu-cache) |
+| [1670-design-front-middle-back-queue](https://github.com/modulus321/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 | [2296-design-a-text-editor](https://github.com/modulus321/LeetCode/tree/master/2296-design-a-text-editor) |
 ## Doubly-Linked List
 |  |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/modulus321/LeetCode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/modulus321/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/modulus321/LeetCode/tree/master/0460-lfu-cache) |
+| [1670-design-front-middle-back-queue](https://github.com/modulus321/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 | [2296-design-a-text-editor](https://github.com/modulus321/LeetCode/tree/master/2296-design-a-text-editor) |
 ## DP on Trees
 |  |
@@ -214,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/modulus321/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Queue
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/modulus321/LeetCode/tree/master/1670-design-front-middle-back-queue) |
+## Data Stream
+|  |
+| ------- |
+| [1670-design-front-middle-back-queue](https://github.com/modulus321/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 <!---LeetCode Topics End-->
