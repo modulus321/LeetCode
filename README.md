@@ -54,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/modulus321/LeetCode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/modulus321/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/modulus321/LeetCode/tree/master/0079-word-search) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/modulus321/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/modulus321/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/modulus321/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/modulus321/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
