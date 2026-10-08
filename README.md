@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/modulus321/LeetCode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/modulus321/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/modulus321/LeetCode/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/modulus321/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/modulus321/LeetCode/tree/master/0079-word-search) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/modulus321/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/modulus321/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/modulus321/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/modulus321/LeetCode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/modulus321/LeetCode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/modulus321/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/modulus321/LeetCode/tree/master/0054-spiral-matrix) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/modulus321/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/modulus321/LeetCode/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/modulus321/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/modulus321/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/modulus321/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/modulus321/LeetCode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/modulus321/LeetCode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/modulus321/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/modulus321/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/modulus321/LeetCode/tree/master/0079-word-search) |
@@ -139,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/modulus321/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/modulus321/LeetCode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/modulus321/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
