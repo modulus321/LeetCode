@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/modulus321/LeetCode/tree/master/0022-generate-parentheses) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/modulus321/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -118,20 +119,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/modulus321/LeetCode/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/modulus321/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/modulus321/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/modulus321/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/modulus321/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/modulus321/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/modulus321/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/modulus321/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/modulus321/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/modulus321/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/modulus321/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/modulus321/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -167,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/modulus321/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/modulus321/LeetCode/tree/master/0460-lfu-cache) |
+## DP on Trees
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/modulus321/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
