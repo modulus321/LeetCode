@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/modulus321/LeetCode/tree/master/0022-generate-parentheses) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/modulus321/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/modulus321/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/modulus321/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/modulus321/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/modulus321/LeetCode/tree/master/0079-word-search) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/modulus321/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/modulus321/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/modulus321/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1670-design-front-middle-back-queue](https://github.com/modulus321/LeetCode/tree/master/1670-design-front-middle-back-queue) |
 ## Binary Search
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/modulus321/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/modulus321/LeetCode/tree/master/0075-sort-colors) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/modulus321/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/modulus321/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Simulation
 |  |
 | ------- |
