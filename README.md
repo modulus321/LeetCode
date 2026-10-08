@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/modulus321/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/modulus321/LeetCode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/modulus321/LeetCode/tree/master/0079-word-search) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/modulus321/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2296-design-a-text-editor](https://github.com/modulus321/LeetCode/tree/master/2296-design-a-text-editor) |
 ## Dynamic Programming
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/modulus321/LeetCode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/modulus321/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/modulus321/LeetCode/tree/master/0460-lfu-cache) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/modulus321/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Matrix
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/modulus321/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/modulus321/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/modulus321/LeetCode/tree/master/0075-sort-colors) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/modulus321/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Simulation
 |  |
 | ------- |
@@ -226,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1670-design-front-middle-back-queue](https://github.com/modulus321/LeetCode/tree/master/1670-design-front-middle-back-queue) |
+## Greedy
+|  |
+| ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/modulus321/LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 <!---LeetCode Topics End-->
