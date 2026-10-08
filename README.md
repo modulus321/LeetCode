@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/modulus321/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/modulus321/LeetCode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/modulus321/LeetCode/tree/master/0079-word-search) |
+| [2296-design-a-text-editor](https://github.com/modulus321/LeetCode/tree/master/2296-design-a-text-editor) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/modulus321/LeetCode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/modulus321/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/modulus321/LeetCode/tree/master/0460-lfu-cache) |
+| [2296-design-a-text-editor](https://github.com/modulus321/LeetCode/tree/master/2296-design-a-text-editor) |
 ## Recursion
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/modulus321/LeetCode/tree/master/0054-spiral-matrix) |
+| [2296-design-a-text-editor](https://github.com/modulus321/LeetCode/tree/master/2296-design-a-text-editor) |
 ## Quicksort
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/modulus321/LeetCode/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/modulus321/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [2296-design-a-text-editor](https://github.com/modulus321/LeetCode/tree/master/2296-design-a-text-editor) |
 ## Two Pointers
 |  |
 | ------- |
@@ -178,12 +182,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/modulus321/LeetCode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/modulus321/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/modulus321/LeetCode/tree/master/0460-lfu-cache) |
+| [2296-design-a-text-editor](https://github.com/modulus321/LeetCode/tree/master/2296-design-a-text-editor) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/modulus321/LeetCode/tree/master/0146-lru-cache) |
 | [0432-all-oone-data-structure](https://github.com/modulus321/LeetCode/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/modulus321/LeetCode/tree/master/0460-lfu-cache) |
+| [2296-design-a-text-editor](https://github.com/modulus321/LeetCode/tree/master/2296-design-a-text-editor) |
 ## DP on Trees
 |  |
 | ------- |
