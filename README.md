@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/modulus321/LeetCode/tree/master/0022-generate-parentheses) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/modulus321/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/modulus321/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Backtracking
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/modulus321/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/modulus321/LeetCode/tree/master/0079-word-search) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/modulus321/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/modulus321/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,22 +128,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/modulus321/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/modulus321/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/modulus321/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/modulus321/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/modulus321/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/modulus321/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/modulus321/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/modulus321/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/modulus321/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/modulus321/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/modulus321/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/modulus321/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/modulus321/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/modulus321/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -176,4 +182,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/modulus321/LeetCode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Math
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/modulus321/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/modulus321/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/modulus321/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/modulus321/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/modulus321/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
